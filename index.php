@@ -5,6 +5,8 @@
 </head>
 
 <body>
+    <img src="http://ts3.mm.bing.net/th?id=JN.3%2f3zpJAcI1XcnbTPLbp3wQ&pid=15.1">
+
     <h1><?php echo "php znaci bukvalno mos koristit bilo gdje" ?></h1>
 
     <?php echo "bilo kad"; ?>
